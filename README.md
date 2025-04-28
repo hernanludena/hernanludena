@@ -29,3 +29,10 @@ I'm passionate about **continuous learning**, **personal growth**, and love shar
 - 🎙️ Soon launching content about development, productivity, and personal growth.
 
 ---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,js,ts,html,css,nodejs,java,python,oracle,git,github,aws,azure,linux" alt="Skills" />
+</p>
+
