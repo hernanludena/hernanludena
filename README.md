@@ -15,8 +15,8 @@ I'm passionate about **continuous learning**, **personal growth**, and love shar
 
 ## 🛠️ Technical Skills
 
-- **Frontend:** React ⚛️ | Redux 🌀 | Javascript🚀 
-- **Backend:** Java ☕ | JSP / Struts 🏛️ | Node.js 🔥 |
+- **Frontend:** React ⚛️ | Redux 🌀 | Javascript 🚀 |JSP / Struts 🏛️ 
+- **Backend:** Java ☕ | Spring 🚀 | Node.js 🔥 |
 - **Databases:** Oracle 🗄️ | SQL 📊
 - **Others:** Git/GitHub | Agile Methodologies | Web Performance Optimization
 
