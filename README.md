@@ -33,6 +33,6 @@ I'm passionate about **continuous learning**, **personal growth**, and love shar
 ## 🛠️ Skills & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,java,oracle,git,github,aws,azure,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,java,git,github,aws,azure,linux,bash,bitbucket,docker,eclipse,html,linux,maven,mysql,postgres,spring,ubuntu,vscode" alt="Skills" />
 </p>
 
