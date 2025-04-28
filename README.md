@@ -32,7 +32,7 @@ I'm passionate about **continuous learning**, **personal growth**, and love shar
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,js,ts,html,css,nodejs,java,python,oracle,git,github,aws,azure,linux" alt="Skills" />
 </p>
 
