@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hernán Ludena! 👋
 
-<!--
-**hernanludena/hernanludena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | 🎯 Scrum Master | ⚡ Tech Lead | 💻 Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Systems Engineer specialized in **Front-End** and **Back-End** development, with over **16 years** of professional experience.  
+I've built **web applications** and **mobile apps** using modern technologies, always focusing on clean, scalable, and impactful code.
+
+I'm passionate about **continuous learning**, **personal growth**, and love sharing knowledge with the tech community. 📚✨
+
+---
+
+## 🛠️ Technical Skills
+
+- **Frontend:** React ⚛️ | Redux 🌀 | Javascript🚀 
+- **Backend:** Java ☕ | JSP / Struts 🏛️ | Node.js 🔥 |
+- **Databases:** Oracle 🗄️ | SQL 📊
+- **Others:** Git/GitHub | Agile Methodologies | Web Performance Optimization
+
+---
+
+## 🎯 Currently
+
+- 🔭 Working on **technology innovation** and **software architecture** projects.
+- 📚 Deepening my knowledge in **AI for development**, **Cloud Computing**, and **automation with LLMs**.
+- 🎙️ Soon launching content about development, productivity, and personal growth.
+
+---
